@@ -1,0 +1,6 @@
+{
+  "name": "MFC ML Workbench - Bioelectrochemical Prediction & Manuscript Studio",
+  "description": "Interactive machine learning pipeline and manuscript drafter for predicting Microbial Fuel Cell (MFC) power density from literature data, complete with baseline models, hyperparameter tuning, feature importance, and academic review paper integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
